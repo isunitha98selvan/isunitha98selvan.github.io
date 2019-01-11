@@ -1,34 +1,84 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Sunitha Selvan- Personal Website</title>
 
-<head>
-	<title></title>
-	<meta charset="utf-8" />
-	<script type='text/javascript' src='http://www.bing.com/api/maps/mapcontrol?callback=GetMap' async defer></script>
-	<script type='text/javascript'>
-		var map, drawingManager;
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-    function GetMap() {
-        map = new Microsoft.Maps.Map('#myMap', {
-            credentials: 'AkQTD1Hh_ZxI89Km0jxGzWvrD2z2n6iO_k7vjNm0pAbKPIkyzmDRXnaG4bWjEeC8'
-        });
 
-        //Load the DrawingTools module
-        Microsoft.Maps.loadModule('Microsoft.Maps.DrawingTools', function () {
-            //Create an instance of the DrawingTools class and bind it to the map.
-            var tools = new Microsoft.Maps.DrawingTools(map);
+  </head>
+  <body>
+    <!--navbar-->
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <a class="navbar-brand" href="#">Sunitha Selvan</a>
+          </div>
+          <ul class="nav navbar-nav">
+            <li><a href="#aboutMe">About me</a></li>
+            <li><a href="#">Experience</a></li>
+            <li><a href="#">Projects</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right"></ul>
+        </div>
+    </nav>
 
-            //Show the drawing toolbar and enable editting on the map.
-            tools.showDrawingManager(function (manager) {
-                //Store a reference to the drawing manager as it will be useful later.
-                drawingManager = manager;
-            })
-        });
-    }
-	</script>
-</head>
+      <!--Buttons-->
+      <div class="text-right">
+        <button type="button" class="btn btn-primary-outline btn-lg">Download CV</button>
+        <button type="button" class="btn btn-primary-outline btn-lg">About Me</button>
+      </div>
 
-<body>
-	<div id="myMap" style="position:relative;width:600px;height:400px;"></div>
-</body>
+      <!--About me-->
+      <div id="aboutMe">
+      <div class="container">
+            <div class="row">
+              <div class="col-lg-6">
+                <h1> Sunitha Selvan.</h1>
+                <h2>I’m a digital designer in love with photography, painting and discovering new worlds and cultures.</h2>
+                 <p>  
+                    General Info<br>
+                    Date of Birth: Aug 25, 1988<br>
+                    Address:Rosia Road 55, Gibraltar, UK<br>
+                    E-mail:mariawilliams@company.com<br>
+                    Phone: +43 5266 22 345<br>
+                </p>
+              </div>
+              <div class="col-lg-6"></div>
+                <div class="text-right">
+                    <img src="assets/images.png">
+                </div>
+            </div>      
+        </div>
+        </div>
+    
+    <!--Social media-->
+    <div class="title">
+            <div class="title-row">
+              <div class="bar-container">
+                <div class="bar"></div>
+              </div>
+              <div class="text">
+                <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-google"></a>	
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-quora"></a>
+                <a href="#" class="fa fa-twitter"></a>      
+        </div>
+        <div class="bar-container">
+        <div class="bar"></div>
+        </div>
+        </div>
+        </div>
+
+  </body>
 </html>
