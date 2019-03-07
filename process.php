@@ -1,10 +1,10 @@
 <?php
 
-    $to = "mr3essa@gmail.com";
+    $to = "sunitha98selvam@gmail.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $headers = "From: $from";
-    $subject = "You have a message.";
+    $subject = "Websire message";
 
     $fields = array();
     $fields{"name"} = "name";
