@@ -1,0 +1,7 @@
+@inproceedings{agrawal2019ars_nitk,
+  title={ARS\_NITK at MEDIQA 2019: Analysing Various Methods for Natural Language Inference, Recognising Question Entailment and Medical Question Answering System},
+  author={Agrawal, Anumeha and George, Rosa Anil and Ravi, Selvan Suntiha and Kamath, Sowmya and Kumar, Anand},
+  booktitle={Proceedings of the 18th BioNLP Workshop and Shared Task},
+  pages={533--540},
+  year={2019}
+}
