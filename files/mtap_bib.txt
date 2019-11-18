@@ -1,0 +1,8 @@
+@article{narasimhan2017dynamic,
+  title={Dynamic video anomaly detection and localization using sparse denoising autoencoders},
+  author={Narasimhan, Medhini G and Kamath, Sowmya},
+  journal={Multimedia Tools and Applications},
+  pages={1--23},
+  year={2017},
+  publisher={Springer}
+}

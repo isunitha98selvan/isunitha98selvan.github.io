@@ -1,0 +1,7 @@
+@inproceedings{gulganjalli2018straight,
+  title={Straight to the Facts: Learning Knowledge Base Retrieval for Factual Visual Question Answering},
+  author={Gulganjalli Narasimhan, Medhini and Schwing, Alexander},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={451--468},
+  year={2018}
+}
