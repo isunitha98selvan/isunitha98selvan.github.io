@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a Master's student at Language Technologies Institute, Carnegie Mellon University. I am currently advised by [Prof. Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/). I was fortunate to be advised by [Prof. Carolyn Rose](http://www.cs.cmu.edu/~cprose/) and [Dr. Denis Newman-Griffis](https://www.newman-griffis.org/) with whom I worked on Medical Word Sense Disambiguation over the past year.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I've had the pleasure of interning at: 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
++ Allen Institute for AI (AllenNLP team), Summer 2022
++ Microsoft, Summer 2018, 2019
 
-
-[jekyll-organization]: https://github.com/jekyll
+I am a 2018 [Google Women Techmakers Scholar](https://www.womentechmakers.com/scholars). I also worked with ACM-W as a volunteer for a while. If you are belong to an under-represented community in tech, feel free to reach out to me for any help or mentorship. 
