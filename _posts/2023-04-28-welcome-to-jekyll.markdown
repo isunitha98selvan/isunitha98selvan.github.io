@@ -7,9 +7,9 @@ categories: jekyll update
 
 Having recently spent a good portion of my time interviewing with companies for ML roles, I realised that I couldn't find a comprehensive list of topics or questions to go through before any ML interview. [Rohan](https://rohankumar.github.io/) and I compiled this list of questions and references as we interviewed with numerous companies for the second half of last year. 
 
-### Questions:
+### Questions
 
-#### General:
+#### General
 
 1. What is bias-variance tradeoff? Which models exbhibit low variance?
 2. How can we avoid underfitting and overfitting?
@@ -28,7 +28,7 @@ Having recently spent a good portion of my time interviewing with companies for 
 15. What is the effect of batch size on training?
 
 
-#### Models:
+#### Models
 1. What are the drawbacks of K-means algorithm?
 2. How can you choose the optimal k for K-means?
 3. In KNN, if k=1, does it have high variance or bias?
