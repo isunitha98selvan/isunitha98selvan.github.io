@@ -11,4 +11,4 @@ I've had the pleasure of interning at:
 + Allen Institute for AI (AllenNLP team), Summer 2022
 + Microsoft, Summer 2018, 2019
 
-I am a community lead for the AI Safety & Alignment cohort at Cohere for AI. I am a 2018 [Google Women Techmakers Scholar](https://www.womentechmakers.com/scholars).I also volunteered with ACM-W for a while. If you belong to an under-represented community in tech, feel free to reach out to me for any help or mentorship. 
+I am a community lead for the AI Safety & Alignment cohort at Cohere for AI. I am a 2018 [Google Women Techmakers Scholar](https://www.womentechmakers.com/scholars). I also volunteered with ACM-W for a while. If you belong to an under-represented community in tech, feel free to reach out to me for any help or mentorship. 
