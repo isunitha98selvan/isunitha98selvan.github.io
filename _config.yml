@@ -22,7 +22,7 @@ title: Selvan Sunitha Ravi
 email: sunitha98selvan@gmail.com
 # description: >- # this means to ignore newlines until "baseurl:"
   # The more I learn, the more I realize how much I don't know.
-baseurl: "/about" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sunitha_selvan
 # github_username: isunitha98selvan
